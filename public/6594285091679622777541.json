@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "15300166647",
+    "project_id": "easy-online-loans-fast-guides",
+    "storage_bucket": "easy-online-loans-fast-guides.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15300166647:android:1bff31d0ffd31f086fe4f2",
+        "android_client_info": {
+          "package_name": "com.guideshowto.easyonlineloansfast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15300166647-9a9i027cg1n6kkm1mg7st7rtdqnsh0bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNkRegD8dgzHwf0aOfScjryx9RzCMeo94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15300166647-9a9i027cg1n6kkm1mg7st7rtdqnsh0bs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
